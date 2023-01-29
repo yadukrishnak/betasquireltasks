@@ -1,0 +1,330 @@
+body {
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+}
+
+#navbar {
+    background-color: rgb(98, 92, 92);
+    height: 80px;
+    border-bottom: 1px solid white;
+}
+
+.container {
+    height: calc(100vh-80px);
+}
+
+#sidebar {
+    width: 16%;
+    height: 710px;
+    overflow: hidden;
+    margin-top: 2px;
+    background-color: rgb(98, 92, 92);
+    float: left;
+}
+
+.title {
+    width: 250px;
+    height: 100px;
+    float: left;
+    margin-left: 15px;
+}
+
+.green-bg {
+    background-color: rgb(11, 185, 11);
+}
+
+.yellow-bg {
+    background-color: rgb(199, 199, 19);
+}
+
+.purple-bg {
+    background-color: purple;
+}
+
+.gray-bg {
+    background-color: rgb(118, 22, 22);
+}
+
+#main {
+    padding: 15px;
+    overflow: hidden;
+}
+
+#title-container {
+    overflow: hidden;
+    margin-bottom: 15px;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+}
+
+#navbar {
+    background-color: rgb(98, 92, 92);
+    height: 80px;
+}
+
+#navbar #logo {
+    padding-left: 20px;
+}
+
+#navbar #logo img {
+    height: 50px;
+    float: left;
+    padding-top: 15px;
+}
+
+#navbar #logo h2 {
+    float: left;
+    margin-left: 2px;
+    color: aliceblue;
+}
+
+#navbar #profile {
+    float: right;
+    height: 30px;
+    width: 30px;
+    padding-right: 30px;
+    padding-top: 18px;
+}
+
+#navbar #profile img {
+    float: left;
+    height: 47px;
+    width: 47px;
+    border-radius: 50%;
+}
+
+#sidebar {
+    width: 16%;
+    height: 710px;
+    overflow: hidden;
+    margin-top: 2px;
+    background-color: rgb(98, 92, 92);
+    float: left;
+}
+
+#sidebar a {
+    padding-top: 8px;
+    padding-left: 20px;
+    color: rgb(255, 255, 255);
+}
+
+#sidebar h3 a {
+    padding-top: 8px;
+    padding-left: 20px;
+    color: rgb(8, 131, 36);
+    text-decoration: none;
+}
+
+#mainbody {
+    height: 712px;
+    width: 84%;
+    background-color: rgb(255, 255, 255);
+    float: right;
+}
+
+#mainbody a {
+    padding-left: 11px;
+    padding-top: 2px;
+    color: black;
+}
+
+.dashboard2 {
+    width: 24%;
+    height: 220px;
+    background-color: rgb(165, 106, 236);
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 55px
+}
+
+.dashboard2 p {
+    text-align: center;
+    margin-top: 60px;
+    color: aliceblue;
+}
+
+.dashboard3 {
+    width: 24%;
+    height: 220px;
+    background-color: rgb(243, 78, 30);
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 55px
+}
+
+.dashboard3 p {
+    text-align: center;
+    margin-top: 60px;
+    color: aliceblue;
+}
+
+.dashboard4 {
+    width: 24%;
+    height: 220px;
+    background-color: rgb(26, 188, 253);
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 55px
+}
+
+.dashboard4 p {
+    text-align: center;
+    margin-top: 60px;
+    color: rgb(255, 255, 255);
+}
+
+.dashboard1 {
+    width: 24%;
+    height: 220px;
+    background-color: rgb(10, 206, 130);
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 55px;
+}
+
+.dashboard1 p {
+    text-align: center;
+    margin-top: 60px;
+    color: aliceblue;
+}
+
+#mainbody .circle1 {
+    width: 250px;
+    height: 250px;
+    background-color: rgb(165, 106, 236);
+    float: left;
+    margin-left: 47px;
+    margin-right: 18px;
+    border-radius: 50%;
+}
+
+.circle3 {
+    width: 235px;
+    height: 235px;
+    background-color: rgb(255, 114, 97);
+    float: left;
+    margin-left: 55px;
+    border-radius: 50%;
+    border: solid 13px;
+    border-color: rgb(243, 78, 30);
+}
+
+.circle2 {
+    width: 235px;
+    height: 235px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin-left: 50px;
+    border-radius: 50%;
+    border: solid 13px;
+    border-color: rgb(26, 188, 253);
+}
+
+.circle4 {
+    width: 18%;
+    height: 250px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin-left: 50px;
+}
+
+#inner {
+    background-color: rgb(10, 206, 130);
+    border-radius: 50%;
+    height: 170px;
+    width: 170px;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+#mainbody .circle3 #small {
+    background-color: rgb(165, 106, 236);
+    float: left;
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    margin-top: 83px;
+    margin-left: 80px;
+}
+
+#mainbody .circle4 #horiz {
+    width: 230px;
+    height: 10px;
+    background-color: rgb(98, 92, 92);
+    margin-top: 245px;
+    margin-left: 20px;
+}
+
+.circle4 .ll1 {
+    width: 10px;
+    height: 200px;
+    background-color: rgb(10, 206, 130);
+    float: left;
+    margin-left: 20px;
+    margin-top: 46px;
+}
+
+.ll2 {
+    width: 10px;
+    height: 100px;
+    background-color: rgb(243, 78, 30);
+    float: left;
+    margin-left: 20px;
+    margin-top: 145px;
+}
+
+.ll3 {
+    width: 10px;
+    height: 135px;
+    background-color: rgb(165, 106, 236);
+    float: left;
+    margin-left: 20px;
+    margin-top: 110px;
+}
+
+.ll4 {
+    width: 10px;
+    height: 70px;
+    background-color: rgb(26, 188, 253);
+    float: left;
+    margin-left: 20px;
+    margin-top: 175px;
+}
+
+.ll5 {
+    width: 10px;
+    height: 165px;
+    background-color: rgb(98, 92, 92);
+    float: left;
+    margin-left: 20px;
+    margin-top: 81px;
+}
+
+.ll6 {
+    width: 10px;
+    height: 50px;
+    background-color: rgb(255, 114, 97);
+    float: left;
+    margin-left: 20px;
+    margin-top: 195px;
+}
+
+#inner p {
+    margin-left: 65px;
+    padding-top: 80px;
+}
+
+#mainbody .circle2 p {
+    text-align: center;
+    margin-top: 110px;
+    margin-right: 20px;
+}
+
+#mainbody .circle3 p {
+    color: aliceblue;
+    text-align: center;
+    margin-top: 25px;
+}
