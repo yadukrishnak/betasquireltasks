@@ -2,11 +2,11 @@
 
 Betasquirrel assignments
 
-| Output                       |
-| ---------------------------- | ---------------------------- |
-| Requrements                  | Output                       |
-| ---------------------------- | ------------                 |
-| ![task 1](images/req-1.jpg)  | ![Task 1](images/task-1.png) |
+### **First task**
+
+| Requrements                 | Output                       |
+| --------------------------- | ---------------------------- |
+| ![task 1](images/req-1.jpg) | ![Task 1](images/task-1.png) |
 
 ### **Second task**
 
