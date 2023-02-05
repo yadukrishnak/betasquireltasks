@@ -30,6 +30,11 @@ Betasquirrel assignments
 - [HTML Favicon](https://www.w3schools.com/html/html_favicon.asp)
 - [HTML Tables](https://www.w3schools.com/html/html_tables.asp)
 - [HTML Table Borders](https://www.w3schools.com/html/html_table_borders.asp)
+- [HTML ID](https://www.w3schools.com/html/html_id.asp)
+- [HTML Classes](https://www.w3schools.com/html/html_classes.asp)
+- [HTML CSS](https://www.w3schools.com/html/html_css.asp)
+- [HTML Lists](https://www.w3schools.com/html/html_lists.asp)
+- [HTML Comments](https://www.w3schools.com/html/html_comments.asp)
 
 ### **Fourth task**
 
@@ -67,8 +72,6 @@ Betasquirrel assignments
 - [HTML Table Colspan & Rowspan](https://www.w3schools.com/html/html_table_colspan_rowspan.asp)
 - [HTML Table Styling](https://www.w3schools.com/html/html_table_styling.asp)
 - [HTML Table Colgroup](https://www.w3schools.com/html/html_table_colgroup.asp)
-
-\\
 
 ### **Task 6**
 
