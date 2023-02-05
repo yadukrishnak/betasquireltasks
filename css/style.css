@@ -134,7 +134,18 @@ p {
   padding-top: 10px;
 }
 
-.img1 {
-  background: white;
-  float: left;
+a:hover {
+  color: aqua;
+}
+
+a:visited {
+  color: green;
+}
+
+p:hover {
+  color: aqua;
+}
+
+p:visited {
+  color: green;
 }

@@ -2,29 +2,20 @@
 
 Betasquirrel assignments
 
-| Output |
-| ------ |
-### **FIRST TASK**
+| Output                       |
+| ---------------------------- | ---------------------------- |
+| Requrements                  | Output                       |
+| ---------------------------- | ------------                 |
+| ![task 1](images/req-1.jpg)  | ![Task 1](images/task-1.png) |
 
-**REQUIRED OUTPUT**
+### **Second task**
 
- ![Requirements](images/req-1.jpg)
+| Requrements                 | Output                       |
+| --------------------------- | ---------------------------- |
+| ![task 2](images/req-2.jpg) | ![Task 2](images/task-2.png) |
 
-**OBTAINED OUTPUT**
+### **Task 3**
 
- ![Task 1](images/task-1.png) 
- 
-## **SECOND TASK**
-
-**REQUIRED OUTPUT**
-
- ![Requirements](images/req-2.jpg)
-
-**OBTAINED OUTPUT**
-
- ![Task 2 Output](images/task-2.png) 
-
-  ### **TASK 3**
 - [HTML Basic](https://www.w3schools.com/html/default.asp)
 - [HTML Elements](https://www.w3schools.com/html/html_basic.asp)
 - [html Attributes](https://www.w3schools.com/html/html_attributes.asp)
@@ -40,35 +31,32 @@ Betasquirrel assignments
 - [HTML Tables](https://www.w3schools.com/html/html_tables.asp)
 - [HTML Table Borders](https://www.w3schools.com/html/html_table_borders.asp)
 
-## **FOURTH TASK**
+### **Fourth task**
 
-**REQUIRED OUTPUT**
+| Requrements                 | Output                       |
+| --------------------------- | ---------------------------- |
+| ![task 4](images/req-3.jpg) | ![Task 4](images/task-4.png) |
 
- ![Requirements](images/req-3.jpg)
+### **Linux Commands**
 
- **OBTAINED OUTPUT**
+| _Commands_ |                                   | _Example_             |
+| ---------- | --------------------------------- | --------------------- |
+| `cd`       | Change currentdirectory           | `cd Desktop`, `cd ..` |
+| `ls`       | List contents of a directory      | `ls -a`               |
+| `pwd`      | Display current working directory | `pwd`                 |
+| `cat`      | Display contentsof a file         | `cat README.md`       |
 
- ![Task 4](images/task-4.png) 
+### **Git Commands**
 
+| _Commands_      |                                        | _Example_                                                        |
+| --------------- | -------------------------------------- | ---------------------------------------------------------------- |
+| 1. `git config` | Configure git user                     | `git config --global user.name "username"`                       |
+| 2. `git clone`  | Clone a remorte git repo to your local | `git clone https://github.com/yadukrishnak/betasquireltasks.git` |
+| 3. `git add`    | Add your file changes to git           | `git add .`                                                      |
+| 4. `git commit` | Commit changes to git                  | `git commit -m "internal commit"`                                |
+| 5. `git push`   | Push your local commits to remote repo | `git push origin main`                                           |
 
- ## **Linux Commands**
-| *Commands* |                        | *Example*               |
-| -------- | ---------------------- | --------------------- |
-| `cd`     | Change currentdirectory | `cd Desktop`, `cd ..` |
-| `ls`     | List contents of a directory | `ls -a`          |
-| `pwd`    | Display current working directory | `pwd`       |
-| `cat`    | Display contentsof a file         | `cat README.md` |
-## **Git Commands**
-| *Commands* |                                   | *Example* |
-| -------- | --------------------------------- | ------- |
-| 1. `git config` | Configure git user         | `git config --global user.name "username"` |
-| 2. `git clone` | Clone a remorte git repo to your local | `git clone https://github.com/yadukrishnak/betasquireltasks.git` |
-| 3. `git add` | Add your file changes to git  | `git add .` |
-| 4. `git commit` | Commit changes to git | `git commit -m "internal commit"` |
-| 5. `git push` | Push your local commits to remote repo | `git push origin main` |
-
-
-## TASK 5
+### Task 5
 
 - [HTML Favicon](https://www.w3schools.com/html/html_favicon.asp)
 - [HTML Tables](https://www.w3schools.com/html/html_tables.asp)
@@ -80,5 +68,8 @@ Betasquirrel assignments
 - [HTML Table Styling](https://www.w3schools.com/html/html_table_styling.asp)
 - [HTML Table Colgroup](https://www.w3schools.com/html/html_table_colgroup.asp)
 
+\\
 
- 
+### **Task 6**
+
+- [Click here](https://yadukrishnak.github.io/betasquireltasks/)
