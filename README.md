@@ -79,4 +79,4 @@ Betasquirrel assignments
 
 - [STACK OVERFLOW LINK](https://stackoverflow.com/users/21238907/yadu-krishna-k?tab=profile)
 
-- [LINKEDKN LINK](https://www.linkedin.com/in/yadhu-krishna-66a82518a/)
+- [LINKEDlN LINK](https://www.linkedin.com/in/yadhu-krishna-66a82518a/)
