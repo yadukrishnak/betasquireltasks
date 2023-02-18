@@ -4,15 +4,15 @@ Betasquirrel assignments
 
 ### **First task**
 
-| Requrements                 | Output                       |
-| --------------------------- | ---------------------------- |
-| ![task 1](images/req-1.jpg) | ![Task 1](images/task-1.png) |
+| Requrements                 | Output                      |
+| --------------------------- | --------------------------- |
+| ![task 1](images/req-1.jpg) | ![Task 1](images/req-1.jpg) |
 
 ### **Second task**
 
-| Requrements                 | Output                       |
-| --------------------------- | ---------------------------- |
-| ![task 2](images/req-2.jpg) | ![Task 2](images/task-2.png) |
+| Requrements                 | Output                      |
+| --------------------------- | --------------------------- |
+| ![task 2](images/req-2.jpg) | ![Task 2](images/req-2.jpg) |
 
 ### **Task 3**
 
@@ -38,9 +38,9 @@ Betasquirrel assignments
 
 ### **Fourth task**
 
-| Requrements                 | Output                       |
-| --------------------------- | ---------------------------- |
-| ![task 4](images/req-3.jpg) | ![Task 4](images/task-4.png) |
+| Requrements                 | Output                      |
+| --------------------------- | --------------------------- |
+| ![task 4](images/req-3.jpg) | ![Task 4](images/req-3.jpg) |
 
 ### **Linux Commands**
 
@@ -76,3 +76,7 @@ Betasquirrel assignments
 ### **Task 6**
 
 - [Click here](https://yadukrishnak.github.io/betasquireltasks/)
+
+- [STACK OVERFLOW LINK](https://stackoverflow.com/users/21238907/yadu-krishna-k?tab=profile)
+
+- [LINKEDKN LINK](https://www.linkedin.com/in/yadhu-krishna-66a82518a/)

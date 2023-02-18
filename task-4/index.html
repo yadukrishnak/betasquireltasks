@@ -1,82 +1,86 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>task3</title>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link href="css/style.css" rel="stylesheet" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Task 4</title>
+    <link rel="stylesheet" href="css/style.css" />
   </head>
   <body>
     <div id="navbar">
-      <div id="logo">
-        <img src="images/figma.png" alt="logo" />
+      <div id="logo-container">
+        <img src="images/figma.png" alt="Logo" />
         <h2>Figma</h2>
       </div>
-      <div id="profile">
-        <img src="images/user.png" alt="profile" />
+      <div id="profile-container">
+        <img src="images/user.png" alt="Profile" />
       </div>
     </div>
-    <div id="sidebar">
-      <b>
-        <h3><a href="Dashboard">Dashboard</a></h3>
-        <p><a href="Users">Users</a></p>
-        <p><a href="Purchases">Purchases</a></p>
-        <p><a href="Sales">Sales</a></p>
-        <p><a href="Tax">Tax</a></p>
-        <p><a href="Employees">Employees</a></p>
-        <p><a href="Accounts">Accounts</a></p>
-        <p><a href="Configuration">Configuration</a></p>
-        <p><a href="Auditing">Auditing</a></p>
-        <p><a href="Reports">Reports</a></p>
-      </b>
-    </div>
-    <div id="mainbody">
-      <p><a href="Dashboard">Dashboard</a></p>
-      <div class="dashboard1">
-        <p>
-          Total sales <br />
-          AED 20,0000
-        </p>
+    <div class="main">
+      <div id="sidebar">
+        <nav>
+          <a href="#" class="active">Dashboard</a>
+          <a href="#">Users</a>
+          <a href="#">Customers</a>
+          <a href="#">Purchases</a>
+          <a href="#">Sales</a>
+          <a href="#">Tax</a>
+          <a href="#">Employees</a>
+          <a href="#">Accounts</a>
+          <a href="#">Configuration</a>
+          <a href="#">Auditing</a>
+          <a href="#">Reports</a>
+        </nav>
       </div>
-      <div class="dashboard2">
-        <p>
-          Total Purchases <br />
-          AED 10,0000
-        </p>
-      </div>
-      <div class="dashboard3">
-        <p>
-          Total expense <br />
-          AED 5,0000
-        </p>
-      </div>
-      <div class="dashboard4">
-        <p>
-          Revenue <br />
-          AED 5,0000
-        </p>
-      </div>
-      <div class="circle1">
-        <div id="inner">
-          <p>50/400</p>
+      <div id="container">
+        <h2>Dashboard</h2>
+        <div id="tile-container">
+          <div class="tile green-bg">
+            <h2>Total Sales</h2>
+            <h3>200,0000</h3>
+          </div>
+          <div class="tile purple-bg">
+            <h2>Total Purchases</h2>
+            <h3>100,0000</h3>
+          </div>
+          <div class="tile red-bg">
+            <h2>Total Expenses</h2>
+            <h3>50,0000</h3>
+          </div>
+          <div class="tile cyan-bg">
+            <h2>Revenue</h2>
+            <h3>50,0000</h3>
+          </div>
         </div>
-      </div>
-      <div class="circle2">
-        <p>10/200</p>
-      </div>
-      <div class="circle3">
-        <div id="small">
-          <p>Danger</p>
+        <div id="circle-container">
+          <div class="circle purple-bg">
+            <div class="inner-one green-bg">
+              <h2>50/400</h2>
+            </div>
+          </div>
+          <div class="circle cyan-bg">
+            <div class="inner-two">
+              <h2>100/200</h2>
+            </div>
+          </div>
+          <div class="circle red-bg">
+            <div class="inner-three">
+              <div class="inner-four purple-bg">
+                <h2>Danger</h2>
+              </div>
+            </div>
+          </div>
+          <div class="chart">
+            <div class="bar green-bg one"></div>
+            <div class="bar purple-bg two"></div>
+            <div class="bar red-bg three"></div>
+            <div class="bar cyan-bg four"></div>
+            <div class="bar green-bg five"></div>
+            <div class="bar purple-bg six"></div>
+            <div class="line"></div>
+          </div>
         </div>
-      </div>
-      <div class="circle4">
-        <div class="ll1"></div>
-        <div class="ll2"></div>
-        <div class="ll3"></div>
-        <div class="ll4"></div>
-        <div class="ll5"></div>
-        <div class="ll6"></div>
-        <div id="horiz"></div>
       </div>
     </div>
   </body>
