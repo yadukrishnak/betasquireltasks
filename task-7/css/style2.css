@@ -1,0 +1,223 @@
+body {
+  background-color: white;
+  margin: auto;
+}
+#navbar {
+  height: calc(100vh - 89vh);
+  border-bottom: solid 2px;
+  border-color: rgb(165, 165, 165);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-between;
+}
+#logoDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-right: 32px;
+  color: rgb(120, 120, 120);
+  font-style: normal;
+}
+#logoDiv img {
+  padding: 0.4em 0.4em 0.4em 2em;
+  height: calc(100vh - 92vh);
+}
+#profileDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-right: 32px;
+}
+#profileDiv img {
+  height: 50px;
+  border-radius: 50%;
+}
+#sideBar {
+  height: calc(100vh - 21.4vh);
+  width: calc(100vw - 84vw);
+  padding: 40px 25px;
+  border-right: solid 2px;
+  border-color: rgb(165, 165, 165);
+  margin: 0px;
+  float: left;
+}
+.right-container {
+  width: 100%;
+  height: 700px;
+}
+.student {
+  text-decoration: underline;
+  height: 30px;
+  margin-top: 35px;
+  margin-bottom: 20px;
+  padding-left: 23.7%;
+}
+.name {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 20%;
+  padding-left: 4%;
+}
+.last-name {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 130px;
+}
+.email {
+  padding-left: 130px;
+}
+.contact {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 20%;
+  padding-left: 4%;
+  padding-top: 2%;
+}
+.selections {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 20%;
+  padding-left: 4%;
+  padding-top: 1%;
+}
+.hostel {
+  display: inline;
+  display: flex;
+  padding-left: 0px;
+}
+.selections-1 {
+  padding-top: 20px;
+  padding-right: 100px;
+}
+.selections-2 {
+  justify-content: space-between;
+  padding-left: 23.7%;
+  padding-top: 1%;
+}
+.Branch {
+  padding-top: 3%;
+}
+input[type="text"] {
+  width: 27.4vw;
+  height: 40px;
+}
+input[type="tel"] {
+  width: 27.4vw;
+  height: 40px;
+}
+input[type="email"] {
+  width: 27.4vw;
+  height: 40px;
+}
+select {
+  width: 28.1vw;
+  height: 40px;
+}
+.address {
+  padding-left: 23.8%;
+  padding-top: 1%;
+}
+p {
+  padding-top: 5px;
+}
+.btn {
+  margin-left: 70%;
+  margin-top: 2%;
+}
+input[type="reset"],
+input[type="submit"] {
+  height: 35px;
+  width: 130px;
+  border-radius: 20px;
+  border: 0px;
+}
+input[type="reset"] {
+  background-color: rgb(255, 114, 97);
+  margin-right: 20px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 300;
+}
+input[type="submit"] {
+  background-color: rgb(59, 185, 137);
+  color: #fff;
+  text-decoration: none;
+  font-weight: 300;
+}
+.checkboxes {
+  display: flex;
+}
+.firstbox {
+  padding-right: 40px;
+}
+.secondbox {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.thirdbox {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.fourthbox {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.red-text {
+  color: red;
+}
+@media screen and (max-width: 1000px) {
+  .left-bar {
+    display: none;
+  }
+  .student {
+    margin-left: 22px;
+  }
+  input[type="text"] {
+    width: 85vw;
+    height: 40px;
+    border-radius: 0;
+  }
+  input[type="tel"] {
+    width: 85vw;
+    height: 40px;
+    border-radius: 0;
+  }
+  input[type="email"] {
+    width: 85vw;
+    height: 40px;
+    border-radius: 0;
+  }
+  select {
+    width: 85vw;
+    height: 40px;
+    color: black;
+  }
+  .name {
+    display: flex;
+    flex-direction: column;
+  }
+  .contact {
+    flex-direction: column;
+  }
+  .space {
+    flex-direction: column;
+  }
+  .checkboxes {
+    flex-direction: column;
+  }
+  .firstbox {
+    margin-left: 40px;
+  }
+  .btn {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-left: 60%;
+  }
+  textarea {
+    display: flex;
+    width: 80vw;
+    align-items: center;
+  }
+}

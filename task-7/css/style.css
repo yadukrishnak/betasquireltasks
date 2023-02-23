@@ -1,0 +1,79 @@
+body {
+  background-color: white;
+  margin: auto;
+}
+#navbar {
+  height: calc(100vh - 89vh);
+  border-bottom: solid 2px;
+  border-color: rgb(165, 165, 165);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-between;
+}
+#logoDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-right: 32px;
+  color: rgb(120, 120, 120);
+  font-style: normal;
+}
+#logoDiv img {
+  padding: 0.4em 0.4em 0.4em 2em;
+  height: calc(100vh - 92vh);
+}
+#profileDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-right: 32px;
+}
+#profileDiv img {
+  height: 50px;
+  border-radius: 50%;
+}
+#sideBar {
+  height: calc(100vh - 21.4vh);
+  width: calc(100vw - 84vw);
+  padding: 40px 25px;
+  border-right: solid 2px;
+  border-color: rgb(165, 165, 165);
+  margin: 0px;
+  float: left;
+}
+P {
+  color: rgb(120, 120, 120);
+  font-size: medium;
+  padding-left: 20px;
+}
+#bodyTop {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-between;
+  padding: 0 4em 0 3em;
+}
+a {
+  padding: 0.5em 1.5em 0.5em 1.5em;
+  color: hsl(159, 62%, 94%);
+  background-color: hsl(157, 50%, 48%);
+}
+#table {
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  height: calc(100vh-22.5vh);
+}
+#table table,
+td,
+th {
+  border: 1px solid;
+  border-color: hsl(0, 0%, 85%);
+  border-collapse: collapse;
+  text-align: center;
+  color: rgb(120, 120, 120);
+  table-layout: fixed;
+  width: 90%;
+  padding: 1em 2em 1em 2em;
+}
